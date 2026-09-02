@@ -19,4 +19,4 @@ Olá, eu sou a Ciel Brando! 👋
 ![](https://github-readme-stats.shion.dev/api?username=cielsilva&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=cielsilva&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-https://mauriciospark.github.io/coreIcons/fotos/android.png
+
