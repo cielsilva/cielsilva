@@ -11,7 +11,7 @@ Olá, eu sou a Ciel Brando! 👋
 <img src="https://mauriciospark.github.io/coreIcons/fotos/chatgpt.png" height="45" alt="chatgpt logo"/>
 <img src="https://mauriciospark.github.io/coreIcons/fotos/terminalw.png" height="45" alt="terminalw logo">
 <img src="https://mauriciospark.github.io/coreIcons/fotos/github.png" height="45" height="45" alt="github logo"/>
-<img src="https://mauriciospark.github.io/coreIcons/fotos/reactnative.png" height="45" alt="react native logo"/> |
+<img src="https://mauriciospark.github.io/coreIcons/fotos/typescript.png" height="45" alt="typescript logo"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ciel-brando-soares-da-silva-39800b39b/)|[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nunessilva075@gmail.com)
  
