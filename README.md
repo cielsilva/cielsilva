@@ -1,16 +1,27 @@
-## Hi there 👋
+markdown
 
-<!--
-**cielsilva/cielsilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Olá, eu sou a Ciel Brando! 👋
 
-Here are some ideas to get you started:
+Estudante de **Ciência da Computação** (5º período na Estácio) focado em desenvolvimento de software, com grande interesse em tecnologias Web e Mobile. Atualmente moro em Manaus/AM.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+- **Linguagens:** JavaScript, TypeScript, PHP
+- **Frameworks/Bibliotecas:** React Native, HTML5, CSS3, Expo
+- **Outros:** AsyncStorage, Consumo de APIs, Informática Essencial
+
+---
+
+### 🚀 Projeto em Destaque
+
+- **[Remediar+](https://github.com/SEU_USUARIO/remediar-plus)**: Aplicativo mobile acadêmico para gerenciamento e lembretes de medicamentos desenvolvidos com React Native, Expo e TypeScript.
+
+---
+
+### 📬 Vamos nos conectar?
+
+- **E-mail:** nunessilva075@gmail.com
+  
+  
